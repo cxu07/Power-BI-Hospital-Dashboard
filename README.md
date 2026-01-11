@@ -26,6 +26,16 @@ The data used includes:
 ## **View Executive Overview**:
 [Click here to see the Executive Overview image](https://github.com/cxu07/Power-BI-Hospital-Dashboard/blob/main/Executive%20Overview.jpg)
 
+## **View Payer Cost Breakdown**:
+[Click here to see the Payer Cost image](https://github.com/cxu07/Power-BI-Hospital-Dashboard/blob/main/PayerCost.jpg)
+
+## **View Procedure Cost Analysis**:
+[Click here to see the Procedure Cost Analysis image](https://github.com/cxu07/Power-BI-Hospital-Dashboard/blob/main/ProcedureCostAnalysis.jpg)
+
+## **View Patient Demographics**:
+[Click here to see the Patient Demographics image](https://github.com/cxu07/Power-BI-Hospital-Dashboard/blob/main/patients_Dem.jpg)
+
+
 
 
 
