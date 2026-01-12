@@ -1,31 +1,41 @@
-# Power-BI-Hospital-Dashboard
-sample dashboard
 # Hospital Analysis Dashboard
 
-This is a Power BI dashboard for hospital and payer analysis. It contains:
-- Executive overview with KPIs
-- Procedure analysis and trends
-- Payer breakdown and hospital metrics
+This Power BI dashboard provides comprehensive insights into hospital performance and payer analysis. It includes:
 
-The data used includes patient encounters, procedure costs, and payer information.
+- **Executive Overview** with key performance indicators (KPIs)
+- **Procedure Analysis and Trends**
+- **Payer Breakdown** and **Hospital Metrics**
 
-### Features:
-- Total Procedures by Month
-- Avg. Procedure Cost per Payer
-- Payer breakdown via Donut chart
+### **Key Features**:
+- **Total Procedures by Month**
+- **Average Procedure Cost per Payer**
+- **Payer Breakdown via Donut Chart**
+- **Encounter Class Distribution**
+- **Top 10 Procedures by Cost and Count**
 
-- # Hospital Dashboard
+The data used includes:
+- Patient encounters
+- Procedure costs
+- Payer information
 
-This Power BI dashboard showcases key healthcare metrics, including:
-
-- Total Procedures by Payer
-- Average Procedure Cost
-- Encounter Class Distribution
-
-## How to view the dashboard:
+## **How to View the Dashboard**:
 1. **Download** the `.pbix` file by clicking the "Download" button above.
 2. Open the `.pbix` file using **Power BI Desktop** (available for free [here](https://powerbi.microsoft.com/desktop/)).
-3. Interact with the dashboard and explore key metrics.
+3. Interact with the dashboard to explore key metrics and insights.
 
-## Screenshot of the Dashboard
-![Hospital Dashboard](Hospital_Dashboard_Screenshot.png)
+## **View Executive Overview**:
+[Click here to see the Executive Overview image](https://github.com/cxu07/Power-BI-Hospital-Dashboard/blob/main/Executive%20Overview.jpg)
+
+## **View Payer Cost Breakdown**:
+[Click here to see the Payer Cost image](https://github.com/cxu07/Power-BI-Hospital-Dashboard/blob/main/PayerCost.jpg)
+
+## **View Procedure Cost Analysis**:
+[Click here to see the Procedure Cost Analysis image](https://github.com/cxu07/Power-BI-Hospital-Dashboard/blob/main/ProcedureCostAnalysis.jpg)
+
+## **View Patient Demographics**:
+[Click here to see the Patient Demographics image](https://github.com/cxu07/Power-BI-Hospital-Dashboard/blob/main/patients_Dem.jpg)
+
+
+
+
+
