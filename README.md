@@ -1,5 +1,3 @@
-# Hospital Analysis Dashboard
-
 # Hospital Analysis Dashboard (Power BI)
 
 This project demonstrates a Business Intelligence solution built in **Power BI** to analyze hospital encounters, patient demographics, procedures, and payer performance. The dashboard is designed to translate complex healthcare data into **clear, actionable insights** for leadership and operational teams.
