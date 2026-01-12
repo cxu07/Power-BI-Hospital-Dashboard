@@ -23,6 +23,12 @@ The data used includes:
 2. Open the `.pbix` file using **Power BI Desktop** (available for free [here](https://powerbi.microsoft.com/desktop/)).
 3. Interact with the dashboard to explore key metrics and insights.
 
+### Data Source
+The dataset used for this dashboard comes from Maven Analytics and includes synthetic healthcare data such as patient encounters, procedures, and payer information.
+
+- [Maven Analytics – Healthcare Sample Data](https://www.mavenanalytics.io/data-playground)
+
+
 ## **View Executive Overview**:
 [Click here to see the Executive Overview image](https://github.com/cxu07/Power-BI-Hospital-Dashboard/blob/main/Executive%20Overview.jpg)
 
@@ -34,6 +40,8 @@ The data used includes:
 
 ## **View Patient Demographics**:
 [Click here to see the Patient Demographics image](https://github.com/cxu07/Power-BI-Hospital-Dashboard/blob/main/patients_Dem.jpg)
+[Download Power BI Dashboard (.pbix)](https://github.com/cxu07/Power-BI-Hospital-Dashboard/raw/main/Hospital_Analysis_Dashboard.pbix)
+
 
 
 
