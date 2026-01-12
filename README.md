@@ -40,8 +40,8 @@ The dataset used for this dashboard comes from Maven Analytics and includes synt
 
 ## **View Patient Demographics**:
 [Click here to see the Patient Demographics image](https://github.com/cxu07/Power-BI-Hospital-Dashboard/blob/main/patients_Dem.jpg)
-## ** Download Power BI Dashboard**:
-[Download Power BI Dashboard (.pbix)](https://github.com/cxu07/Power-BI-Hospital-Dashboard/raw/main/Hospital_Analysis_Dashboard.pbix)
+## **Download Power BI Dashboard**:
+[Click here to download Power BI Dashboard (.pbix)](https://github.com/cxu07/Power-BI-Hospital-Dashboard/raw/main/Hospital_Analysis_Dashboard.pbix)
 
 
 
