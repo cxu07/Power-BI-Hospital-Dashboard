@@ -39,3 +39,18 @@ The report is organized into **three pages**, each aligned with a specific analy
 
 ## ⬇️ Download Dashboard
 - 📥 [Download Power BI Dashboard (.pbix)](https://github.com/cxu07/Power-BI-Hospital-Dashboard/raw/main/Hospital_Analysis_Dashboard.pbix)
+- Open the `.pbix` file using **Power BI Desktop** to explore interactive visuals, slicers, and drill-down functionality.
+
+---
+
+## 🗂️ Data Source
+The dataset used in this project is **synthetic healthcare data** provided by **Maven Analytics**, including patient encounters, procedures, healthcare organizations, and payer information.
+
+- 🔗 [Maven Analytics – Healthcare Sample Data](https://www.mavenanalytics.io/data-playground)
+
+---
+
+## 🛠️ Tools & Skills Demonstrated
+- Power BI (data modeling, DAX, visual design)  
+- SQL-based data preparation and validation  
+- KPI design and healthcare analytics insights  
