@@ -31,7 +31,7 @@ The report is organized into three pages, each aligned to a specific analytical 
 
 ## Download Dashboard
 - [Download Power BI Dashboard (.pbix)](https://github.com/cxu07/Power-BI-Hospital-Dashboard/raw/main/Hospital_Analysis_Dashboard.pbix)
-Open the `.pbix` file using **Power BI Desktop** to explore interactive visuals, slicers, and drill-down capabilities.
+>Open the `.pbix` file using **Power BI Desktop** to explore interactive visuals, slicers, and drill-down capabilities.
 
 ## Data Source
 The dataset used in this project is **synthetic healthcare data** provided by Maven Analytics and includes patient encounters, procedures, organizations, and payer information.
