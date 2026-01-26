@@ -1,32 +1,33 @@
-# Hospital Analysis Dashboard (Power BI)
+# Healthcare Encounters – Power BI Dashboard
 
-This project demonstrates a Business Intelligence solution built in **Power BI** to analyze hospital encounters, patient demographics, procedures, and payer performance. The dashboard is designed to translate complex healthcare data into **clear, actionable insights** for leadership and operational teams.
+This Power BI dashboard analyzes healthcare encounter data (Maven Analytics) to answer defined business questions related to encounter trends, costs, coverage, and patient readmissions.
 
-## Executive Overview
-The executive summary page highlights key operational metrics, including patient volume, encounter trends, and admission vs. non-admission mix to support high-level decision-making.
+## Dashboard Structure
 
-- [Executive Overview](./Executive%20Overview.jpg)
+The report is organized into three pages, each aligned to a specific analytical objective.
 
-## Patient & Encounter Analysis
-Provides insight into patient demographics and utilization patterns to help organizations understand who they serve and how care is delivered.
+### 1. Encounters Overview
+- Total encounters by year
+- Encounter class distribution (%)
+- Encounters over vs under 24 hours
+- [Encounter Overview](./Encounter%20Overview.jpg)
 
-- [Patient Demographics](./patients_Dem.jpg)
 
-## Procedure & Cost Analysis
-Analyzes procedure volume and cost trends over time, supporting identification of cost drivers and utilization patterns.
+### 2. Cost & Coverage Insights
+- Zero vs non-zero payer coverage
+- Top procedures by frequency and average cost
+- Procedures with highest average base cost
+- Average total claim cost by payer
+- [Payer Cost Analysis](./Cost_coverage.jpg)
 
-- [Procedure Cost Analysis](./ProcedureCostAnalysis.jpg)
 
-## Payer & Financial Insights
-Focuses on payer mix and procedure cost distribution by payer, supporting revenue cycle performance analysis and payer strategy discussions.
 
-- [Payer Cost Analysis](./PayerCost.jpg)
+### 3. Patient Behavior Analysis
+- Unique patients admitted by quarter
+- Patients readmitted within 30 days
+- Top patients by number of readmissions
+- [Patient Behavior Analysis](./patients_behavior.jpg)
 
-## Key RCM-Oriented Insights
-- Admission vs. non-admission encounter mix to support utilization and capacity planning
-- Procedure volume and average cost trends by month
-- Payer-level procedure cost distribution
-- Executive-ready KPIs designed for leadership review and operational follow-up
 
 ## Download Dashboard
 - [Download Power BI Dashboard (.pbix)](https://github.com/cxu07/Power-BI-Hospital-Dashboard/raw/main/Hospital_Analysis_Dashboard.pbix)
@@ -41,5 +42,4 @@ The dataset used in this project is **synthetic healthcare data** provided by Ma
 ## Tools & Skills Demonstrated
 - Power BI (Data Modeling, DAX, Visual Design)
 - SQL-based data preparation concepts
-- Healthcare & Revenue Cycle analytics
-- KPI design for executive and operational stakeholders
+- KPI design, analysis insights for executive and operational stakeholders
