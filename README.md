@@ -1,7 +1,8 @@
 # 🏥 Healthcare Encounters – Power BI Dashboard
 
-This Power BI dashboard analyzes **healthcare encounter data** from Maven Analytics to address key business questions related to **encounter trends, costs, insurance coverage, and patient readmissions
-It answers defined healthcare encounter and readmission questions using Maven Analytics data.Readmission and LOS logic was validated using SQL (CTEs and window functions) prior to implementation in DAX.**.
+This Power BI dashboard analyzes **healthcare encounter data** from Maven Analytics to address key business questions related to encounter trends, costs, insurance coverage, and patient readmissions.
+
+Readmission and length-of-stay (LOS) logic were validated using **SQL (CTEs and window functions)** prior to implementation in **DAX**.
 
 ---
 
@@ -24,7 +25,7 @@ The report is organized into **three pages**, each aligned with a specific analy
 - Top procedures by encounter frequency and average cost  
 - Procedures with the highest average base cost  
 - Average total claim cost by payer  
-- 📷 [Payer Cost Analysis](./Cost_coverage.jpg)
+- 📷 [Cost & Coverage Analysis](./Cost_coverage.jpg)
 
 ---
 
@@ -38,19 +39,3 @@ The report is organized into **three pages**, each aligned with a specific analy
 
 ## ⬇️ Download Dashboard
 - 📥 [Download Power BI Dashboard (.pbix)](https://github.com/cxu07/Power-BI-Hospital-Dashboard/raw/main/Hospital_Analysis_Dashboard.pbix)
-
-Open the `.pbix` file using **Power BI Desktop** to explore interactive visuals, slicers, and drill-down functionality.
-
----
-
-## 🗂️ Data Source
-The dataset used in this project is **synthetic healthcare data** provided by **Maven Analytics**, including patient encounters, procedures, healthcare organizations, and payer information.
-
-- 🔗 [Maven Analytics – Healthcare Sample Data](https://www.mavenanalytics.io/data-playground)
-
----
-
-## 🛠️ Tools & Skills Demonstrated
-- Power BI (Data Modeling, DAX, Visual Design)  
-- SQL-based data preparation concepts  
-- KPI design and analytical insights for executive and operational stakeholders  
