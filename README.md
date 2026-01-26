@@ -1,7 +1,8 @@
 # 🏥 Healthcare Encounters – Power BI Dashboard
-  -- A healthcare analytics case study demonstrating SQL-validated metrics and Power BI dashboard design.
-  
+*A healthcare analytics case study demonstrating SQL-validated metrics and Power BI dashboard design.*
+
 This Power BI dashboard analyzes **healthcare encounter data** from Maven Analytics to address key business questions related to encounter trends, costs, insurance coverage, and patient readmissions.
+
 Readmission and length-of-stay (LOS) logic were validated using **SQL (CTEs and window functions)** prior to implementation in **DAX**.
 
 ---
@@ -39,7 +40,8 @@ The report is organized into **three pages**, each aligned with a specific analy
 
 ## ⬇️ Download Dashboard
 - 📥 [Download Power BI Dashboard (.pbix)](https://github.com/cxu07/Power-BI-Hospital-Dashboard/raw/main/Hospital_Analysis_Dashboard.pbix)
-- Open the `.pbix` file using **Power BI Desktop** to explore interactive visuals, slicers, and drill-down functionality.
+
+Open the `.pbix` file using **Power BI Desktop** to explore interactive visuals, slicers, and drill-down functionality.
 
 ---
 
