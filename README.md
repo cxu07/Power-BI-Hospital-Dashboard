@@ -1,7 +1,7 @@
 # 🏥 Healthcare Encounters – Power BI Dashboard
 
-This Power BI dashboard analyzes **healthcare encounter data** from Maven Analytics to address key business questions related to **encounter trends, costs, insurance coverage, and patient readmissions**.
-This Power BI report answers defined healthcare encounter and readmission questions using Maven Analytics data.Readmission and LOS logic was validated using SQL (CTEs and window functions) prior to implementation in DAX.
+This Power BI dashboard analyzes **healthcare encounter data** from Maven Analytics to address key business questions related to **encounter trends, costs, insurance coverage, and patient readmissions
+It answers defined healthcare encounter and readmission questions using Maven Analytics data.Readmission and LOS logic was validated using SQL (CTEs and window functions) prior to implementation in DAX.**.
 
 ---
 
